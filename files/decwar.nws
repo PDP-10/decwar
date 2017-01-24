@@ -1,0 +1,7 @@
+                 Welcome Decwar Version 2.2 !!
+
+This  version contains many bug fixes.  Computed coordinates now
+work for terminals with speeds < = 600 baud.  The  TEll  command
+should  work  now also.  If we should get a fatal program error,
+please save your output!!   I  didn't  change  a  couple  of  KL
+instructions in the lowseg as I think they are data.
